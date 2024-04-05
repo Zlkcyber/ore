@@ -3,7 +3,7 @@
     apt-get update -y && apt-get install git -y
 ### Steps
 #### Clone this repository :
-    git clone https://github.com/CryptoNodeID/ore.git
+    git clone https://github.com/Zlkcyber/ore.git
 #### run setup command : 
     cd ore && chmod ug+x *.sh && ./setup.sh
 ### Please do deposit to miner address before starting the miner
